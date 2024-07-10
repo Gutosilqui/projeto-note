@@ -1,4 +1,4 @@
-# projeto-de-note
+# projeto-de-notas
 
 Este é um projeto em React.js utilizando TypeScript e Vite.
 
