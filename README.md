@@ -9,7 +9,7 @@ Siga os passos abaixo para instalar e configurar o projeto em sua máquina local
 1. Clone o repositório para a sua máquina local:
 
     ```bash
-    git clone https://github.com/usuario/projeto-de-notas.git
+    git clone https://github.com/Gutosilqui/projeto-de-notas.git
     ```
 
 2. Navegue até o diretório do projeto:
